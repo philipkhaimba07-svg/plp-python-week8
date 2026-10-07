@@ -1,0 +1,26 @@
+PERSONAL MINI-TOOLKIT: PLAN
+
+TOOLS
+1. Number Guessing Game - The computer picks a number from 1 to 10 and the
+   user keeps guessing until they get it, with higher/lower hints.
+2. To-Do List - The user can add tasks, view them, and mark one as done
+   (which removes it from the list).
+3. Name Formatter - The user types their first and last name, and the
+   program shows it in a clean, properly capitalised format with initials.
+
+MENU TEXT (exact)
+=== Personal Mini-Toolkit ===
+1. Number Guessing Game
+2. To-Do List
+3. Name Formatter
+4. Quit
+Choose an option (1-4):
+
+CONCEPTS USED
+Menu loop:        while loop, if/elif/else, f-string for messages
+Guessing Game:    while loop, conditionals (too high / too low / correct),
+                  counter variable, f-strings
+To-Do List:       list that changes at runtime (.append, .remove), in check,
+                  for loop to display, conditionals, f-strings
+Name Formatter:   input, string methods (.strip, .title), conditionals
+                  (empty check), f-strings
