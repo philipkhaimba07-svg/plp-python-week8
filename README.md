@@ -10,5 +10,10 @@ a to-do list, and a name formatter.
 3. Type the number of a tool and press Enter. Choose 4 to quit.
 
 ## Reflection
-(Write 5-8 sentences in your own words: which part was hardest, which
-bug took longest to fix, and what you would add with one more week.)
+
+The hardest part of this project was ______ because ______.
+The bug that took longest to fix was ______, which happened because ______.
+I solved it by ______, and it taught me ______.
+I'm proudest of the ______ tool because ______.
+Planning in toolkit_plan.txt first helped me ______.
+With one more week, I would add ______ because ______.
