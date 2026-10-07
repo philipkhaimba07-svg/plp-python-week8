@@ -11,9 +11,19 @@ a to-do list, and a name formatter.
 
 ## Reflection
 
-The hardest part of this project was ______ because ______.
-The bug that took longest to fix was ______, which happened because ______.
-I solved it by ______, and it taught me ______.
-I'm proudest of the ______ tool because ______.
-Planning in toolkit_plan.txt first helped me ______.
-With one more week, I would add ______ because ______.
+## Reflection
+
+The hardest tool to build was the to-do list, because it uses a list that
+changes while the program runs and I had to keep track of adding, showing and
+removing tasks inside its own loop. The part that took me longest overall was
+not a crash in the code but getting my submission right: I had to retake my
+screenshots as proper full-screen captures instead of phone photos, and my
+README reflection was left as placeholder text until I replaced it. While
+testing, I learned why checking `in` before `.remove()` matters, because typing
+a task that wasn't on the list showed "That task is not on your list." instead
+of crashing. I'm proudest of the main menu, since it keeps returning after every
+tool and handles invalid choices like `9` politely. Planning in toolkit_plan.txt
+first made the build easier because I already knew my menu text and which
+concepts each tool needed. With one more week, I would add a fourth tool such as
+a calculator and save the to-do list to a file so tasks are not lost when the
+program closes.
